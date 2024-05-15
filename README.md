@@ -1,6 +1,5 @@
-# my personal refrence for Go
-
 ## Table of Contents
+
 - [keywords](#keywords)
 - [builtin functions](#builtin-functions)
 - [standard library](#standard-library)

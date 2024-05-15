@@ -3,6 +3,7 @@
 - [keywords](#keywords)
 - [builtin functions](#builtin-functions)
 - [standard library](#standard-library)
+- [common packages](#common-packages)
 
 ## keywords
 
@@ -43,3 +44,5 @@
 - `fmt`: formatting I/O.
 - `os`: operating system interfaces.
 - `io`: basic I/O interfaces.
+
+## common packages
